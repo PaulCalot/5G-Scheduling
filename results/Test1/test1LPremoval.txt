@@ -1,0 +1,12 @@
+new channel
+1 65
+12 98
+new channel
+1 50
+7 85
+new channel
+1 63
+27 87
+new channel
+1 13
+32 95

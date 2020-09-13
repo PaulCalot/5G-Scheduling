@@ -1,0 +1,17 @@
+new channel
+1 29
+8 31
+14 48
+27 82
+new channel
+2 33
+7 71
+46 98
+new channel
+1 41
+25 100
+new channel
+2 18
+6 38
+7 47
+9 97
